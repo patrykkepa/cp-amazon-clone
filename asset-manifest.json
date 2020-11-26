@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cp-amazon-clone/static/css/main.4deae040.chunk.css",
+    "main.js": "/cp-amazon-clone/static/js/main.3f545751.chunk.js",
+    "main.js.map": "/cp-amazon-clone/static/js/main.3f545751.chunk.js.map",
+    "runtime-main.js": "/cp-amazon-clone/static/js/runtime-main.531d1e95.js",
+    "runtime-main.js.map": "/cp-amazon-clone/static/js/runtime-main.531d1e95.js.map",
+    "static/js/2.9ec1757e.chunk.js": "/cp-amazon-clone/static/js/2.9ec1757e.chunk.js",
+    "static/js/2.9ec1757e.chunk.js.map": "/cp-amazon-clone/static/js/2.9ec1757e.chunk.js.map",
+    "index.html": "/cp-amazon-clone/index.html",
+    "static/css/main.4deae040.chunk.css.map": "/cp-amazon-clone/static/css/main.4deae040.chunk.css.map",
+    "static/js/2.9ec1757e.chunk.js.LICENSE.txt": "/cp-amazon-clone/static/js/2.9ec1757e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.531d1e95.js",
+    "static/js/2.9ec1757e.chunk.js",
+    "static/css/main.4deae040.chunk.css",
+    "static/js/main.3f545751.chunk.js"
+  ]
+}
